@@ -130,7 +130,7 @@ function QuizProvider({ children }: QuizProviderProps) {
     : 0;
 
   useEffect(function () {
-    fetch("http://localhost:3000/questions")
+    fetch("http://localhost:9000/questions")
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dataReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));
