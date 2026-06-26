@@ -1,4 +1,3 @@
-:::writing
 
 # React + TypeScript + CreateReactApp App (Context + useReducer)
 <img width="1920" height="1090" alt="screencapture-localhost-3000-2026-06-26-15_17_22" src="https://github.com/user-attachments/assets/44a9082d-5aae-46d2-862b-29ac4c77b2ae" />
